@@ -8,13 +8,13 @@ namespace ClassMetotDemo
     {
         public void AddCustomer(Musteri musteri)
         {
-            Console.WriteLine("Customer has added! Customer Information: " 
+            Console.WriteLine("Customer has been added! Customer Information: " 
                 + musteri.Name + " " + musteri.Surname);
         }
 
         public void DelCustomer(Musteri musteri)
         {
-            Console.WriteLine("Customer has deleted! Customer Information: "
+            Console.WriteLine("Customer has been deleted! Customer Information: "
                 + musteri.Name + " " + musteri.Surname);
         }
 
@@ -22,7 +22,7 @@ namespace ClassMetotDemo
         {
             foreach (Musteri musteri in musteriler)
             {
-                Console.WriteLine(musteri.Name + " " + musteri.Surname + " Id: " 
+                Console.WriteLine("Name Surname: " + musteri.Name + " " + musteri.Surname + " Id: " 
                     + musteri.Id + " Credit Point: " + musteri.CreditPoint);
             }
         }
