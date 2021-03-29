@@ -9,7 +9,7 @@ namespace GenericsIntro
         T[] items;
         public MyList() //constructor. MyList classını newlersek otomatik çalışır
         {
-            items = new T[0];    
+            items = new T[0];
         }
         public void Add(T item) //bu metodu ekledik değişken tipi T
         {
