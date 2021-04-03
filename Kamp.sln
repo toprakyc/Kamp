@@ -5,27 +5,31 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kamp", "Kamp\Kamp.csproj", "{F0217E27-135C-4226-AE8B-B2FAD3968EF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{DD6E643B-3933-4DD7-875D-532FAC27D33F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{DD6E643B-3933-4DD7-875D-532FAC27D33F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferanceType", "ValueAndReferanceType\ValueAndReferanceType.csproj", "{3B1ED4D6-ACC3-48E7-A74E-8712926B5D2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferanceType", "ValueAndReferanceType\ValueAndReferanceType.csproj", "{3B1ED4D6-ACC3-48E7-A74E-8712926B5D2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-ticaret", "E-ticaret\E-ticaret.csproj", "{0A9998E7-9CB3-4CBE-B09D-67D640DE342C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-ticaret", "E-ticaret\E-ticaret.csproj", "{0A9998E7-9CB3-4CBE-B09D-67D640DE342C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{9697316D-5C60-49F3-A281-B2296E43E955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{9697316D-5C60-49F3-A281-B2296E43E955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{F2E08267-1AE9-4B93-8D69-4768BB011E59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{F2E08267-1AE9-4B93-8D69-4768BB011E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{41412B78-9DD7-4851-B8CB-B18AFA466F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{41412B78-9DD7-4851-B8CB-B18AFA466F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{4969864E-4F73-48B8-B937-018A494A2099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{4969864E-4F73-48B8-B937-018A494A2099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astroloji", "Astroloji\Astroloji.csproj", "{99CDF22F-A6FD-4150-9792-430A61DC156D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Astroloji", "Astroloji\Astroloji.csproj", "{99CDF22F-A6FD-4150-9792-430A61DC156D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{9FE56822-8834-4A97-B1FE-6B9CC25A344E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{9FE56822-8834-4A97-B1FE-6B9CC25A344E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{7517FA18-AF79-4DC5-9091-FC956D8BE342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{7517FA18-AF79-4DC5-9091-FC956D8BE342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{C0C8AE3F-F484-478F-9F59-92A1DD964712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{C0C8AE3F-F484-478F-9F59-92A1DD964712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{AE244B24-E536-4022-BBAB-369396356939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{52DED695-54BB-479A-A74F-362216487526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{C0C8AE3F-F484-478F-9F59-92A1DD964712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C8AE3F-F484-478F-9F59-92A1DD964712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C8AE3F-F484-478F-9F59-92A1DD964712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE244B24-E536-4022-BBAB-369396356939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE244B24-E536-4022-BBAB-369396356939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE244B24-E536-4022-BBAB-369396356939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE244B24-E536-4022-BBAB-369396356939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DED695-54BB-479A-A74F-362216487526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DED695-54BB-479A-A74F-362216487526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DED695-54BB-479A-A74F-362216487526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DED695-54BB-479A-A74F-362216487526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
