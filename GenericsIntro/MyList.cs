@@ -15,6 +15,7 @@ namespace GenericsIntro
         {
             T[] tempArray = items;  //referansı kaybetmemek için tempte tuttuk
             items = new T[items.Length + 1];  //boyutu 1 arttırdık
+            //tempArray[items.Length - 1] = item;
             for (int i = 0; i < tempArray.Length; i++)
             {
                 items[i] = tempArray[i];
