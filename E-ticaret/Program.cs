@@ -32,7 +32,7 @@ class ReplitOdev
                 "| Ürün indirim Orani: " + product.UrunIndirimOrani);
         }
 
-        Console.WriteLine("-----------------foreach--------------------");
+        Console.WriteLine("-----------------while--------------------");
         int a = 0;
         while (a < products.Length)
         {
